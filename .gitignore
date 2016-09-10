@@ -1,0 +1,13 @@
+#TempFiles for tex.
+*.aux
+*.ilg
+*.log
+*.synctex.gz
+*.nav
+*.out
+*.snm
+*.toc
+*.blg
+*.bbl
+*~
+CollectiveEffects.pdf
